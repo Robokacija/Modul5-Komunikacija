@@ -21,4 +21,4 @@ Nakon što smo instalirali aplikaciju i library, potrebno je preuzeti ovaj repoz
 6. Spojiti se -> Boards -> Select other board and port -> odabrati board 'Arduino Uno' -> Odabrati port(ako ih ima više odspojiti Arduino i vidjeti koji nestane) -> OK
 7. Upload program
 
-![Animation](https://github.com/user-attachments/assets/62e31fcc-8889-4f54-831c-10966e3f53ef)
+![Animation](https://github.com/user-attachments/assets/23c31045-f760-4fab-832c-f6fbacd7a8b7)
